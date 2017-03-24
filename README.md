@@ -9,7 +9,4 @@ Applicazione console C# che calcola l'età dell'utente e gli indica i giorni che
 5. *Nice-to-have*: Se è il giorno del compleanno dell'utente, il programma non deve scrivere il numero di giorni che restano ma deve scrivere "Tanti auguri!".
 
 ## Situazione attuale
-
-Per prima cosa va risolto quello, e poi anche un altro problema: per alcune date di nascita, il programma scrive "Restano -80 giorni al tuo prossimo compleanno!".
-Come è possibile che scriva un numero negativo? Va identificato il problema e risolto. Hai giusto notato che si verifica per i nati a gennaio, febbraio e alcuni di marzo.
-Fai il possibile per consegnare il programma funzionante al cliente.
+Il programma rispetta le specifiche e sembra funzionare correttamente. Sentiti pure libero di segnalare qualche bug che mi è sfuggito.

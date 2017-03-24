@@ -40,7 +40,7 @@ namespace UnicamCompleanno
                 double differenzaInGiorni = differenzaTemporale.TotalDays;
                 if(differenzaInGiorni == 0)
                 {
-                    Console.WriteLine("Buon compleanno !!!");
+                    Console.WriteLine("Tanti auguri!");
                 } else {
                     Console.WriteLine($"Restano {differenzaInGiorni} giorni al tuo prossimo compleanno!");
                 }
