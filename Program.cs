@@ -17,7 +17,7 @@ namespace UnicamCompleanno
                 //Quando non sappiamo come si fa o quando, come in questo caso,
                 //.NET non ha un modo facile per ottenere la differenza in anni
                 //andiamo a vedere su StackOverlow se qualcuno ha già avuto la stessa necessità
-                //Il metodo Years è stato preso da lì (è definito più in basso, in questo file)
+                //Il metodo Years è stato preso da lì (è definito più in basso, in questo file).
                 string anniDiDifferenza = Years(dataDiNascita, DateTime.Today).ToString();
                 Console.WriteLine($"Oggi hai {anniDiDifferenza} anni");
 
